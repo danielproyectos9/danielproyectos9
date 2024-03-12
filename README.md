@@ -5,7 +5,7 @@
 
 # Hi there, I'm Daniel 👋
 
-I’m currently working on web development with technologies like Java Spring Boot, Angular, Android Studio, Flutter, etc.
+I’m currently working on web development with technologies like Java Quarkus and Flutter.
 
 ## About me 
 
