@@ -60,7 +60,7 @@ I’m currently working on web development with technologies like Java Quarkus a
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
-#### CI
+#### CI-CD
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232B2F33.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
 #### Servers
